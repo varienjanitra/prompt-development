@@ -1,0 +1,106 @@
+<grand-universal-breakdown-algorithm>
+    <ontological-layers>
+        <format>
+            ["Level Number". "Level Name"]
+        </format>
+        <layer-progression>
+            [1. Axiomatic] -> [2. Physical] -> [3. Relational] -> [4. The {{topic}}] -> [5. Abstract] -> [6. Structural] -> [7. Absolute Abstraction]
+        </layer-progression>
+        <layer-description>
+            <axiomatic>
+                [1. Axiomatic]
+                <description>
+                    The bedrock. Methodology used is Formal Logic.
+                    What is the undeniable starting point / @primordial_axioms of the {{topic}}?
+                </description>
+            </axiomatic>
+            <physical>
+                [2. Physical]
+                <description>
+                    The medium. Methodology used is First Principles.
+                    What "matter/energy"/substrate of execution@primitives allows this?
+                </description>
+            </physical>
+            <relational>
+                [3. Relational]
+                <description>
+                    The interactions. Methodology used is Ontology/Rules.
+                    How do the parts "talk"/@interaction to each other?
+                </description>
+            </relational>
+            <the-topic>
+                [4. The {{topic}}]
+                <description>
+                    The instance. Methodology used is systems thinking/taxonomy.
+                    How does this specific thing/{{topic}} behave? What is the @intent or @utility of the {{topic}}?
+                    What is the {{topic}}'s @objective_function, is it inherent or assigned/artificial?
+                    What is the teleology of this {{topic}}?
+                </description>
+            </the-topic>
+            <abstract>
+                [5. Abstract]
+                <description>
+                    The logic/math. Methodology used is Information Theory.
+                    What is the underlying data/code?
+                </description>
+            </abstract>
+            <structural>
+                [6. Structural]
+                <description>
+                    The Patterns. Methodology used is Isomorphism / Meta-Logic.
+                    Where else does this "shape" exist?
+                </description>
+            </structural>
+            <absolute-abstraction>
+                [7. Absolute Abstraction]
+                <description>
+                    The Topos. Methodology used is Category Theory.
+                    What is the universal structure?
+                </description>
+            </absolute-abstraction>
+        </layer-description>
+    </ontological-layers>
+    <core-algorithm>
+        [Phase 1. Reduction of {{topic}} - Reductionist Analysis]
+            1. Breakdown the {{topic}} into the @primordial_axioms that allows the {{topic}} to exist, to find the 'non-negotiable truths'
+                1.1. Identify the {{topic}} domain, is it a deterministic system or a probabilistic system? 
+                1.1.1. Check whether the system has @sensitivity to @initial_conditions (chaos theory). Some systems look deterministic but behave like they're probabilistic (like weather). 
+                1.1.2. Check for ergodicity, whether it is an ensemble or time averages, and path dependency
+                1.1.3. Chekc the temporal domain of the {{topic}}: (e.g., A mountain is a "Thing" in human time, but a "Fluid" in geologic time)
+                1.2. Remove the context of the {{topic}} (e.g., If the {{topic}} is "The Stock Market," remove "Money"; you are left with "Resource Allocation").
+                1.2.1. Check for "Substrate Independence" (e.g., Can Economics exist in a digital simulation? Yes. Can it exist without Time? No.) to identify @absolute_minimum_primitives
+                1.3. Check for whether there is any @observer_bias or @contextual_framing
+                1.4. Identify the "Domain of Validity" and  whether it is also self-similar: At what scale does this {{topic}} cease to be true? (e.g., Classical Mechanics breaks at the quantum scale; Economics breaks at the scale of a 2-person household).
+                1.5. Check for "Fat Tails" (Black Swan events).
+                1.99. Gödel's Incompleteness Theorem. Every formal system sufficiently complex will have truths that cannot be proven within the system itself.
+            2. Identify the @primitives, what are the smallest units of the {{topic}}
+            3. Find the axiomatic floor/@primordial axioms, what must be true for these units/@primitives to exists?
+        [Phase 2. Emergence of {{topic}} - Structural Synthesis]
+            4. Define the ontological rules, how do these @primitives interact (@interaction)?
+            5. Identify the @taxonomy, how to we group these @interaction?
+            5.1. Hegelian Synthesis: Check for Internal Contradictions, oftem a system (e.g. Economics) exists specifically to manage two contradictory axioms (e.g., "Infinite Growth" vs "Finite Resources").
+            6. Map the @system, look for feedback loops, entropy, and equilibrium. This is where the {{topic}} lives.
+            6.1. Map out the @emergences: identify the @system_properties that the @system has, which the individual units/@primitives do not (e.g. "Liquidity" in markets, "consciousness" in brains)
+            6.1.1. Check for "Qualia Gap", check for @Phenomenology: whether the system produces an internal subjective state that cannot be fully captured by the structural map.
+            6.2. Check whether the @emergence is weak (predictable) or strong (novel) or is there any downward causation?
+            6.3. Check whether the @system is self referential: (e.g. In Economics, if everyone believes a crash is coming, the crash happens. The observer is inside the system. We could call this @reflexivity.)
+            6.4. Landauer's Principle: What is the thermodynamic cost of the @system? (e.g. Even a thought in the English Language costs glucose!)
+        [Phase 3. Abstraction of {{topic}} - Categorical Abstraction]
+            7. Turn the @system into a set of inputs and outputs
+            8. Perform isomorphic search to find the @morphisms, find @other_topics with the same "shape" (e.g. "A viral tweet spreads like a biological pathogen")
+            8.1. Distinguish between the analogy and Isomorphism of the {{topic}} and the @other_topics
+            9. Strip away context of @system until you are left with category theory. Map the @morphisms and the @adjoint_functors (e.g. In Economics, "Supply" and "Demand" are adjoints. In Language, "Speaking" (Encoding) and "Hearing" (Decoding) are adjoints. It's the "balance" or "equilibrium" expressed in pure math.)
+            9.1. Look for Conservatioin Laws: In Physics, it's Energy; in Economics, it's Value; in Language, it's "Meaning." What is the one thing the system refuses to lose?
+            10. You have reached the absolute abstraction.
+    </core-algorithm>
+    <core-algorithm-example>
+        Take the {{topic}} of {{English Language}}:
+            * [1. Axiomatic] -> Primordial Axioms: The existence of "Difference." (For a sound to mean something, it must be "not-another-sound"). The Law of Identity.
+            * [2. Physical] -> Physical/Medium: Sound waves (vibrations in air) or photons (ink on paper). The biological capacity for pattern recognition.
+            * [3. Relational] -> Ontological Rules: Grammar and Syntax. "Subject-Verb-Object." The rule that links a "Sound" to a "Concept."
+            * [4. The {{topic}}]: English (Level 4): The specific vocabulary, the "General UK" vibe, the slang, the history.
+            * [5. Abstract] -> Information Theory: The "Entropy" of language. How much data can I remove before you stop understanding me? (e.g., "U ok hun?").
+            * [6. Structural] -> Structural Patterns: Language as an Evolutionary System. It behaves exactly like DNA—mutating, replicating, and competing for survival.
+            * [7. Absolute Abstraction] -> Absolute Abstraction: A Mapping of Semantics. In the Topos, Language is just a "Functor" between a set of "Symbols" and a set of "Meanings."
+    </core-algorithm-example>
+</grand-universal-breakdown-algorithm>
