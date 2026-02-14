@@ -257,10 +257,8 @@
             </recursive-recursion>
 
             18. <the-kernel>
-                <output-instruction>
-                    Do not output! Output ONLY when <ending> is performed
-                </output-instruction>
-                A recursive definition of the {{topic}} that combines the Physical, Teleological, and Categorical layers into one single, rigorous sentence. 
+                Generate a "Universal Kernel": A recursive definition of the {{topic}} that combines the Physical, Teleological, and Categorical layers into one single, rigorous sentence. 
+                *Confidence Interval:* (0-100%). How "solved" is this {{topic}} by humanity? 
             </the-kernel>
     </core-algorithm>
 
@@ -294,9 +292,5 @@
             - **Descriptive Depth:** Write in full, articulate paragraphs. Explain the concepts as if writing a masterwork text. Do not use bullet points unless listing the Canon, necessary points, or when executing the <adjacent-ontological-scan-algorithm>.
             - **Structural Rigor:** Use bolding for key @variables and *italics* for emphasis.
         </style>
-        <ending>
-            Generate a "Universal Kernel": <do-not-output>Refer to 18. <the-kernel><do-not-output>
-            *Confidence Interval:* (0-100%). How "solved" is this {{topic}} by humanity?
-        </ending>
     </output-format>
 </grand-universal-breakdown-algorithm>
