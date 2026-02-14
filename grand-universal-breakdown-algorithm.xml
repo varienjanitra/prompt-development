@@ -283,7 +283,7 @@
         
         <style>
             - Use Markdown with clear Headers (e.g., `### [1] Context & Axioms`).
-            - **Conciseness:** Write in bullet-points. Explain the briefly and concisely using as few sentence as possible.
+            - **Conciseness:** For the discussion within each phase and its content, organize the ideas by writing in bullet-points. Explain the ideas briefly and concisely using as few sentence as possible.
             - **Structural Rigor:** Use bolding for key @variables and *italics* for emphasis.
         </style>
     </adjacent-ontological-scan-algorithm>
